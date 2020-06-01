@@ -1,3 +1,3 @@
-# Elearning_website
+# Elearning WebSite
 
 Elearning website for my university
