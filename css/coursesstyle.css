@@ -1,0 +1,34 @@
+
+.container{
+    margin-top: 8%;
+}
+
+.inner{
+    overflow: hidden;
+
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+.nav-link{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-brand{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.col-md-5{
+    color: white;
+}
+
+.me:hover{
+    text-decoration: none;
+}
